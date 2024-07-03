@@ -1,0 +1,16 @@
+{
+  "pensamentos": [
+    {
+      "conteudo": "Estudar Angular é mais divertido do que eu imaginava",
+      "autoria": "Mel",
+      "modelo": "modelo2",
+      "id": 1
+    },
+    {
+      "conteudo": "\"Ser ou não ser, eis a questão\"",
+      "autoria": "William Shakespeare",
+      "modelo": "modelo3",
+      "id": 2
+    }
+  ]
+}
