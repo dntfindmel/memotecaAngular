@@ -1,16 +1,53 @@
 {
   "pensamentos": [
     {
-      "conteudo": "Estudar Angular é mais divertido do que eu imaginava",
-      "autoria": "Mel",
-      "modelo": "modelo2",
+      "conteudo": "Que a força esteja com você!",
+      "autoria": "Mestre Yoda",
+      "modelo": "modelo1",
+      "favorito": false,
       "id": 1
     },
     {
       "conteudo": "\"Ser ou não ser, eis a questão\"",
       "autoria": "William Shakespeare",
-      "modelo": "modelo3",
+      "modelo": "modelo2",
+      "favorito": true,
       "id": 2
+    },
+    {
+      "conteudo": "Aprender Angular é divertido",
+      "autoria": "Dev Mel",
+      "modelo": "modelo2",
+      "favorito": true,
+      "id": 3
+    },
+    {
+      "conteudo": "Preciso cancelar meu convênio no dia 12/07",
+      "autoria": "Mel",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 4
+    },
+    {
+      "conteudo": "L'italiano è una lingua devvo straordinaria",
+      "autoria": "Mel",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 5
+    },
+    {
+      "conteudo": "Preciso guardar mais de 6 pensamentos!",
+      "autoria": "Dev Mel",
+      "modelo": "modelo1",
+      "favorito": true,
+      "id": 6
+    },
+    {
+      "conteudo": "Ganhar todo dia a gente não pode, mas aparentemente perder pode sim.",
+      "autoria": "Desconhecida",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 7
     }
   ]
 }
